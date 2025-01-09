@@ -1,0 +1,14 @@
+langchain
+langchain_core
+langchain_community
+pypdf
+faiss-cpu
+langchain-huggingface
+langchain-google-genai
+streamlit
+uvicorn
+langserve
+fastapi
+sse_starlette
+numexpr
+python-dotenv
