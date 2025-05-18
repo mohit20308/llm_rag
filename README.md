@@ -100,7 +100,8 @@ Streamlit is used to create UI,  app.py file can be run as:
 
 The video demonstrates user's query and generated reponses.
 
-<video src="https://github.com/user-attachments/assets/068faefa-c235-4866-a974-2647d2ab0e18">
+
+<video src="https://github.com/user-attachments/assets/aac51fc5-16a6-4784-9e4a-6d8a06224d3c">
 </video>
 
 
